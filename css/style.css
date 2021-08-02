@@ -267,8 +267,8 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li.has-children > .dropdown > li, .unslate_co--site-nav .site-nav-ul > li.has-children > ul > li, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > .dropdown > li, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > ul > li {
-  padding: 0;
-  margin: 0;
+  padding: 10;
+  margin: 10;
   list-style: none;
   line-height: 1.5;
 }
